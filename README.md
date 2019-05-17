@@ -1,2 +1,13 @@
 # Online-Ordering-Food
-Used the Foursquare API and Toronto Census data to cluster neighborhoods and determine optimal location to open offices of an online ordering food company
+A data science project to optimize the location of the offices of an online ordering food company
+
+## Problem statement
+
+
+## Background
+
+## Data
+
+## Results
+
+## File structure
