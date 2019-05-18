@@ -21,10 +21,18 @@ This project is useful for all the online food delivery companies who would like
 
 
 ## Data
+To answer the business problem, the following data have to be extracted from various data sources:
 
+1. Population of Each Neighborhood (Berlin Census)
+2. Number of Restaurants in Each Neighborhood (Foursquare API)
+The Berlin Census data was extracted from ........
 
 ## Results
 
 
 ## File structure
+1. Raw and modified data can be found in data/
+2. Code and figures in Jupyter Notebook can be found in Berlin.ipynb
+3. Final report can be found in Report.pdf
+4. Presentation can be found in Presentation.pdf
 
