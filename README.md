@@ -26,12 +26,12 @@ Collecting and preparing data is one of the most important part of the project. 
 * Remove redundant features
 * Remove features that don't add value to classifying the object
 
-To answer the business problem, the following data have to be extracted from various data sources:
+To answer the business problem, the following data are extracted from the following sources:
 
 1. Population of Each Neighborhood (Berlin Census)
 2. Number of Restaurants in Each Neighborhood (Foursquare API)
 
-The Berlin Census data was extracted from ........
+The Berlin Census data is extracted from ........
 
 ## Results
 
