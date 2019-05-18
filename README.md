@@ -21,10 +21,16 @@ This project is useful for all the online food delivery companies who would like
 
 
 ## Data
+Collecting and preparing data is one of the most important part of the project. The attributes that describe an object are called FEATURES. The data is modified and cleaned as follows:
+
+* Remove redundant features
+* Remove features that don't add value to classifying the object
+
 To answer the business problem, the following data have to be extracted from various data sources:
 
 1. Population of Each Neighborhood (Berlin Census)
 2. Number of Restaurants in Each Neighborhood (Foursquare API)
+
 The Berlin Census data was extracted from ........
 
 ## Results
