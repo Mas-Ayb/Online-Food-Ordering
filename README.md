@@ -33,9 +33,6 @@ To answer the business problem, the following data are extracted from the follow
 
 The Berlin Census data is extracted from ........
 
-## Results
-
-
 ## File structure
 1. Raw and modified data can be found in __data/__
 2. Code and figures in Jupyter Notebook can be found in __Berlin.ipynb__
