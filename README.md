@@ -1,5 +1,5 @@
-# Online-Ordering-Food
-A data science project to determine the best location for the delivery workers of an online fo odordering company.
+# Online-Food-Ordering
+A data science project to determine the best location for the delivery workers of an online food odordering company.
 
 This is the capstone project of the "IBM Data Science Professional Certificate" on Coursera.
 
