@@ -37,8 +37,8 @@ The Berlin Census data is extracted from ........
 
 
 ## File structure
-1. Raw and modified data can be found in data/
-2. Code and figures in Jupyter Notebook can be found in Berlin.ipynb
-3. Final report can be found in Report.pdf
-4. Presentation can be found in Presentation.pdf
+1. Raw and modified data can be found in __data/__
+2. Code and figures in Jupyter Notebook can be found in __Berlin.ipynb__
+3. Final report can be found in __Report.pdf__
+4. Presentation can be found in __Presentation.pdf__
 
