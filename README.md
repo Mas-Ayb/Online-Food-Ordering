@@ -36,7 +36,7 @@ Following data sources will be needed to extract/generate the required informati
 
 ## File structure
 1. Raw and modified data can be found in __data/__
-2. Code and figures in Jupyter Notebook can be found in __London.ipynb__
+2. Code in Jupyter Notebook can be found in __London.ipynb__
 3. Final report can be found in __Report.pdf__
 4. Presentation can be found in __Presentation.pdf__
 
