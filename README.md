@@ -1,10 +1,10 @@
 # Online-Food-Ordering
-A data science project to determine the best location for the delivery workers of an online food odordering company.
+A data science project to determine the best location for the delivery workers of an online food ordering company.
 
-This is the capstone project of the "IBM Data Science Professional Certificate" on Coursera.
+*note: This is the capstone project of the "IBM Data Science Professional Certificate" on Coursera.*
 
 ## Business Problem
-Used the Foursquare API and Berlin Census data to cluster neighborhoods and determine the best location for the delivery workers of an online food ordering company.
+Used the Foursquare API and London data to cluster neighborhoods and determine the best location for the delivery workers of an online food ordering company.
 
 ## Background
 Online food ordering is a system to order the restaurants' food through the website or mobile app. Based on the type of this system, a customer can choose a restaurant, scan the menu items, select the desired items and pay it. These websites give customers information about the food, price, duration of the food preparation and so on.
@@ -15,27 +15,28 @@ There are different types of online food ordering. One of the main ones is manag
 
 What is seriously important for the delivery companies is that they should deliver the food as soon as possible, in order to reduce the delivery time, increase customer's satisfaction, and get more orders. Therefore, it is noticeably vital for these companies to arrange their delivery workers to save the time. To do so, the location of the delivery workers should be optimized in order to reduce the distance they have to drive each time.
 
-The idea behind this project is to cluster the neighborhoods of the city (here Berlin is chosen as the case study) to ensure that the workers have to drive less distance in each area. In this project, the data of the restaurants’ location and the population of each area of the city is required.
+The idea behind this project is to cluster the neighborhoods of the city (here London is chosen as the case study) to ensure that the workers have to drive less distance in each area. In this project, the data of the restaurants’ location and the population of each area of the city is required.
 
 This project is useful for all the online food delivery companies who would like to increase their performance and profit.
 
-
 ## Data
-Collecting and preparing data is one of the most important part of the project. The attributes that describe an object are called FEATURES. The data is modified and cleaned as follows:
-
-* Remove redundant features
-* Remove features that don't add value to classifying the object
-
 To answer the business problem, the following data are extracted from the following sources:
+* Population of Each Neighborhood
+* Number of Restaurants in Each Neighborhood (Foursquare API)
+* Coordinates of the Neighborhoods of London
 
-1. Population of Each Neighborhood (Berlin Census)
-2. Number of Restaurants in Each Neighborhood (Foursquare API)
+Following data sources will be needed to extract/generate the required information:
 
-The Berlin Census data is extracted from ........
+* Population of each area will be obtained using **London Borough Profiles Database** (https://data.london.gov.uk/download/london-borough-profiles/c1693b82-68b1-44ee-beb2-3decf17dc1f8/london-borough-profiles.csv)
+
+* Coordinate of London center will be obtained by **pasring the wikipedia web page: List_of_London_boroughs** (https://en.wikipedia.org/wiki/List_of_London_boroughs)
+
+* Number of restaurants and their type and location in every neighborhood will be obtained using **Foursquare API**
+
 
 ## File structure
 1. Raw and modified data can be found in __data/__
-2. Code and figures in Jupyter Notebook can be found in __Berlin.ipynb__
+2. Code and figures in Jupyter Notebook can be found in __London.ipynb__
 3. Final report can be found in __Report.pdf__
 4. Presentation can be found in __Presentation.pdf__
 
