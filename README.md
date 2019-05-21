@@ -29,7 +29,7 @@ Following data sources will be needed to extract/generate the required informati
 
 * Population of each area will be obtained using **London Borough Profiles Database** (https://data.london.gov.uk/download/london-borough-profiles/c1693b82-68b1-44ee-beb2-3decf17dc1f8/london-borough-profiles.csv)
 
-* Coordinate of London center will be obtained by **pasring the wikipedia web page: List_of_London_boroughs** (https://en.wikipedia.org/wiki/List_of_London_boroughs)
+* Coordinate of London center will be obtained by **parsing the Wikipedia web page: List_of_London_boroughs** (https://en.wikipedia.org/wiki/List_of_London_boroughs)
 
 * Number of restaurants and their type and location in every neighborhood will be obtained using **Foursquare API**
 
